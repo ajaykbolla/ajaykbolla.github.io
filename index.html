@@ -97,6 +97,34 @@
   }
 }
 
+<style>
+  /* Existing styles */
+
+  /* New styles for layout adjustments */
+  .one-third {
+    width: 35%; /* Adjusted width */
+    background-size: cover;
+    background-position: right center;
+    margin-left: auto;
+  }
+
+  .one-forth {
+    width: 60%; /* Adjusted width */
+  }
+
+  /* Responsive adjustments for smaller screens */
+  @media (max-width: 768px) {
+    .one-third {
+      width: 100%;
+      background-position: center;
+    }
+    .one-forth {
+      width: 100%;
+      margin-top: 20px;
+    }
+  }
+</style>
+
 
 /* project image zoom effect */
 
