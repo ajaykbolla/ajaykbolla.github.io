@@ -272,7 +272,10 @@
 								<h1 class="big">About</h1>
 								<h2 class="mb-4">About Me</h2>
 								
-								<p>Accomplished Data Engineer with nearly 4 years of experience in big data technologies, cloud platforms, and modern data architectures. Skilled in designing and deploying scalable ETL pipelines, data warehousing systems, and analytics solutions. Proficient in managing data workflows with Apache Spark, Airflow, and Kafka, leveraging AWS, Azure, and GCP. Expertise in Python, SQL, and R, with experience in machine learning libraries and data visualization tools. Adept at implementing DevOps practices using Docker and Kubernetes for CI/CD pipelines. Proficient in both relational and NoSQL databases, delivering maintainable data infrastructure that empowers organizations with actionable insights and measurable business value.</p>
+								<p>Detail-oriented Data Specialist with almost 2 years of experience with expertise in transforming business process requirements into
+									Functional Requirements and Exploratory Data Analysis (EDA) for customer satisfaction Experience in generating Dashboards,
+									Data-Driven Analysis, and constructing Data Models for providing actionable insights toimprove strategic decision-making using
+									tools like SQL, Python, Tableau, Power BI, and Excel.</p>
 								<ul class="about-info mt-4 px-md-0 px-2">
 									<!-- <li class="d-flex"><span>Profile:</span> <span>Data Science &amp; Analytics</span></li> -->
 									<!-- <li class="d-flex"><span>Domain:</span> <span>Retail, Ecommerce, BFSI &amp; Digital Marketing</span></li> -->
@@ -303,7 +306,116 @@
 		</div>
     </section>
 
-     
+
+
+	
+    <section class="ftco-section ftco-no-pb" id="resume-section">
+    	<div class="container">
+    		<div class="row justify-content-center pb-5">
+          <div class="col-md-10 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">Resume</h1>
+            <h2 class="mb-4">Resume</h2>
+            <p>Detail-oriented Data Analyst with expertise in SQL, Python, R, and data visualization tools like Tableau and Power BI. Proven experience in analyzing complex datasets, optimizing processes, and delivering actionable insights. Skilled in statistical analysis, data modeling, and business intelligence, with a strong background in operations and retail analytics</p>
+          </div>
+        </div>
+
+		<div class="row">
+			<h1 class="big-4">Experience</h1>
+			<div class="underline"></div>
+		</div>
+		<br>
+		
+		<div class="row">
+				<div class="col-md-6">
+					<div class="resume-wrap ftco-animate">
+						<span class="date">Nov 2020-Mar 2021</span>
+						<h2>Operations Research Analyst Intern</h2>
+						<span class="position">BCT - KVK, Vizag, India</span>
+						<!-- <p class="mt-4">Merkle, a leading CXM and media company with over 10K+ professionals globally. It's a part of Dentsu International.  -->
+							<ul>
+								<li>Collaborated with farmers to implement organic farming practices that improved profitability through cost-saving strategies.</li>
+								<li>Conducted research and analysis on organic farming practices, resulting in a 15\% increase in crop yield and a 20\% reduction in environmental impact.
+							   </li>
+								<li>Improved productivity by 30\% by adopting innovative practices learned from visiting processing facilities and research centers to explore new products, methods, and technologies.</li>
+							</ul>
+						</p>
+					</div>
+
+				</div>
+
+				<div class="col-md-6">
+					<div class="resume-wrap ftco-animate">
+						<span class="date">Sep 2021-May 2022</span>
+						<h2>Data Analyst</h2>
+						<span class="position">Wipro Limited, India</span>
+						<!-- <p class="mt-4">iQuanti is a data-driven digital marketing analytics and solutions company, helps top 100 global brands.  -->
+							<ul>
+								<li>Improved product quality by 10% by identifying and fixing defects in the semiconductor manufacturing process using Tableau.</li>
+								<li>Accelerated data integration and reporting accuracy by 6% through optimized ETL pipelines using Talend IDE to process large datasets from multiple sources including SQL databases, RESTful APIs, and CSV files
+									.</li>
+								<li>Enhanced production processes by 15% through root cause analysis using advanced SQL queries to resolve underlying issues.</li>
+							</ul>
+						</p>
+					</div>
+
+				</div>
+
+
+				<div class="col-md-6">
+					<div class="resume-wrap ftco-animate">
+						<span class="date">Jun 2021-Nov 2021</span>
+						<h2>Operations Analyst</h2>
+						<span class="position">M2D2 UMass Lowell , MA</span>
+						<!-- <p class="mt-4">iQuanti is a data-driven digital marketing analytics and solutions company, helps top 100 global brands.  -->
+							<ul>
+								<li>Developed and implemented data tracking systems for the IMPACT program, analyzing metrics for early-stage life science and biotech startups to measure growth and resource allocation effectiveness.</li>
+								<li>Designed and deployed a data-driven website to optimize resource allocation and metric tracking for resident startup companies, improving operational efficiency.</li>
+								<!-- <li>Enhanced production processes by 15% through root cause analysis using advanced SQL queries to resolve underlying issues.</li> -->
+							</ul>
+						</p>
+					</div>
+
+				</div>
+			</div>
+
+		<br>
+		<br>
+
+		<div class="row">
+			<h1 class="big-4">Education</h1>
+			<div class="underline"></div>
+		</div>
+		<br>
+		
+			<div class="row">
+    			<div class="col-md-6">
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">2023-2025</span>
+    					<h2>MS in Business Analytics</h2>
+    					<span class="position">University of Massachusetts Lowell</span>
+    					<p class="mt-4">Grade: 3.4/4</p>
+    				</div>
+    			</div>
+
+    			<div class="col-md-6">
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">2017-2021</span>
+    					<h2>B.Sc in Agricultural Sciences</h2>
+    					<span class="position">Singhania University</span>
+    					<p class="mt-4">Grade: 3.2/4</p>
+    				</div>
+				</div>
+    		</div>
+
+    		<div class="row justify-content-center mt-5">
+    			<div class="col-md-6 text-center ftco-animate">
+    				<p><a href="https://1drv.ms/w/c/5997dac211a1d714/EbM0ODjHLatNpfkMZsoCbEAByK6mQs5quf7K_OuUXvMnmQ?e=hcpMmc" class="btn btn-primary py-4 px-5">Download CV</a></p>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+
+   
 
     <section class="ftco-section" id="project-section">
       <div class="container">
@@ -311,7 +423,7 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h1 class="big big-2">Projects</h1>
             <h2 class="mb-4">Projects</h2>
-            
+            <p>Below are my sample data analytics projects.</p>
           </div>
         </div>
         <div class="row d-flex">
@@ -450,7 +562,7 @@
           			<span class="icon-map-signs"></span>
           		</div>
           		<h3 class="mb-4">Location</h3>
-	            <p>Dallas, Texas</p>
+	            <p>Boston, MA</p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
